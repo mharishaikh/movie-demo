@@ -1,2 +1,2 @@
-# movie-demo
-Movie App for demo
+# Demo
+Demo web page

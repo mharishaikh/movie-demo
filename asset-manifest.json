@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:mharisshaikh12/Demo.git/static/css/main.852e8e2c.chunk.css",
+    "main.js": "/git@github.com:mharisshaikh12/Demo.git/static/js/main.d93491ed.chunk.js",
+    "main.js.map": "/git@github.com:mharisshaikh12/Demo.git/static/js/main.d93491ed.chunk.js.map",
+    "runtime-main.js": "/git@github.com:mharisshaikh12/Demo.git/static/js/runtime-main.7c1d8a90.js",
+    "runtime-main.js.map": "/git@github.com:mharisshaikh12/Demo.git/static/js/runtime-main.7c1d8a90.js.map",
+    "static/js/2.b4309f00.chunk.js": "/git@github.com:mharisshaikh12/Demo.git/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/git@github.com:mharisshaikh12/Demo.git/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/git@github.com:mharisshaikh12/Demo.git/index.html",
+    "precache-manifest.63301d2f7a471d3246d8c1e0bdd8d1c4.js": "/git@github.com:mharisshaikh12/Demo.git/precache-manifest.63301d2f7a471d3246d8c1e0bdd8d1c4.js",
+    "service-worker.js": "/git@github.com:mharisshaikh12/Demo.git/service-worker.js",
+    "static/css/main.852e8e2c.chunk.css.map": "/git@github.com:mharisshaikh12/Demo.git/static/css/main.852e8e2c.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/git@github.com:mharisshaikh12/Demo.git/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c1d8a90.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.852e8e2c.chunk.css",
+    "static/js/main.d93491ed.chunk.js"
+  ]
+}
